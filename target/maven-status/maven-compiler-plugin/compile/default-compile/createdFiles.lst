@@ -1,3 +1,4 @@
+com/nulltwenty/tacocloud/web/WebConfig.class
 com/nulltwenty/tacocloud/model/Ingredient.class
 com/nulltwenty/tacocloud/domain/controller/DesignTacoController.class
 com/nulltwenty/tacocloud/model/Taco.class
@@ -6,4 +7,3 @@ com/nulltwenty/tacocloud/TacoCloudApplication.class
 com/nulltwenty/tacocloud/converter/IngredientByIdConverter.class
 com/nulltwenty/tacocloud/domain/controller/OrderController.class
 com/nulltwenty/tacocloud/model/Ingredient$Type.class
-com/nulltwenty/tacocloud/controller/HomeController.class

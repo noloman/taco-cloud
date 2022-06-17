@@ -3,6 +3,6 @@
 /Users/manu/Developer/taco-cloud/src/main/java/com/nulltwenty/tacocloud/domain/model/TacoOrder.java
 /Users/manu/Developer/taco-cloud/src/main/java/com/nulltwenty/tacocloud/TacoCloudApplication.java
 /Users/manu/Developer/taco-cloud/src/main/java/com/nulltwenty/tacocloud/converter/IngredientByIdConverter.java
-/Users/manu/Developer/taco-cloud/src/main/java/com/nulltwenty/tacocloud/controller/HomeController.java
 /Users/manu/Developer/taco-cloud/src/main/java/com/nulltwenty/tacocloud/model/Ingredient.java
 /Users/manu/Developer/taco-cloud/src/main/java/com/nulltwenty/tacocloud/domain/controller/DesignTacoController.java
+/Users/manu/Developer/taco-cloud/src/main/java/com/nulltwenty/tacocloud/web/WebConfig.java
